@@ -5,7 +5,7 @@ This is a practice project of Nasa App where I have practice how to use API in f
 # Screenshots:
 
 ## 1. Loading Screen:
-<img src="https://github.com/karno786/Nasa-App-Flutter-Practice-/blob/master/screenshots/Loading.png" alt="NASA App Loading Screenshot" width="350" title="NASA App Loading" >
+<img style="text-align: center;" src="https://github.com/karno786/Nasa-App-Flutter-Practice-/blob/master/screenshots/Loading.png" alt="NASA App Loading Screenshot" width="350" title="NASA App Loading" >
 
 
 
